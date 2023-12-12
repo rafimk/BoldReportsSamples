@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoldReportsSamples.Api", "BoldReportsSamples.Api\BoldReportsSamples.Api.csproj", "{603E1C16-307A-43D2-A830-15DD88A4BC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603E1C16-307A-43D2-A830-15DD88A4BC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603E1C16-307A-43D2-A830-15DD88A4BC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603E1C16-307A-43D2-A830-15DD88A4BC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603E1C16-307A-43D2-A830-15DD88A4BC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB61BD68-B2D0-45EC-876F-24CC52E39266}
+	EndGlobalSection
+EndGlobal
