@@ -7,6 +7,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+Bold.Licensing.BoldLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
